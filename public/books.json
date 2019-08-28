@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "title": "Hello World",
+    "author": "vasya",
+    "price": 345,
+    "image": "https://mirpozitiva.ru/photo/1252-krasivye-kartinki.html"
+  },
+  {
+    "id": 1,
+    "title": "How to be awesome",
+    "author": "petya",
+    "price": 355,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  },
+  {
+    "id": 2,
+    "title": "NBA Stars",
+    "author": "jack",
+    "price": 1045,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  },
+  {
+    "id": 3,
+    "title": "End of the world",
+    "author": "monster",
+    "price": 985,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  },
+  {
+    "id": 4,
+    "title": "Making a cookie",
+    "author": "troll",
+    "price": 345,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  },
+  {
+    "id": 5,
+    "title": "Highway to hell",
+    "author": "someone",
+    "price": 3058,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  },
+  {
+    "id": 6,
+    "title": "More or Less?",
+    "author": "someone",
+    "price": 2065,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  },
+  {
+    "id": 7,
+    "title": "We went for it",
+    "author": "someone",
+    "price": 1527,
+    "image": "https://www.1zoom.ru/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%BE%D0%B1%D0%BE%D0%B8/565128/z1811.8/"
+  }
+]
